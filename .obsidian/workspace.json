@@ -128,13 +128,21 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "7c4a2cb6508b0051",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,9 +151,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acac998b537dc7d8",
-  "lastOpenFiles": []
+  "active": "7c4a2cb6508b0051",
+  "lastOpenFiles": [
+    "Work/5. Creations",
+    "Meetings/5. Creations",
+    "Work/4. Distilled Notes",
+    "Meetings/4. Distilled Notes",
+    "Work/3. Practical Notes",
+    "Meetings/3. Practical Notes",
+    "Work/2. Topic Notes",
+    "Meetings/2. Topic Notes",
+    "Work/1. Daily Notes",
+    "Meetings/1. Daily Notes",
+    "Work"
+  ]
 }
