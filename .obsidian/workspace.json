@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-21.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-21.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-21.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-21.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "2fdee94d4fd585d2",
   "lastOpenFiles": [
-    "Untitled.md",
     "2023-06-21.md",
+    "Daily Inbox/2023-06-21.md",
+    "Untitled.md",
     "README.md",
     "Untitled",
     "Work/5. Creations",
